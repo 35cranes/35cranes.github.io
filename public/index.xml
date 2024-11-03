@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>snorkeler realm</title>
+    <link>https://35cranes.github.io/</link>
+    <description>Recent content on snorkeler realm</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://35cranes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>post1</title>
+      <link>https://35cranes.github.io/posts/post2/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://35cranes.github.io/posts/post2/</guid>
+      <description>&lt;p&gt;music post&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Title of the post</title>
-      <link>https://example.org/posts/test/</link>
+      <link>https://35cranes.github.io/posts/test/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/test/</guid>
+      <guid>https://35cranes.github.io/posts/test/</guid>
       <description>&lt;p&gt;？&lt;/p&gt;</description>
     </item>
   </channel>
