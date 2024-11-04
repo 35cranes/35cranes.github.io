@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>snorkeler realm</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on snorkeler realm</description>
+    <title>Archie</title>
+    <link>https://snorkeler-realm.xyz/</link>
+    <description>Recent content on Archie</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://snorkeler-realm.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://snorkeler-realm.xyz/about/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://snorkeler-realm.xyz/about/</guid>
       <description>&lt;p&gt;about&lt;/p&gt;</description>
     </item>
     <item>
       <title>post1</title>
-      <link>http://localhost:1313/posts/post2/</link>
+      <link>https://snorkeler-realm.xyz/posts/post2/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post2/</guid>
+      <guid>https://snorkeler-realm.xyz/posts/post2/</guid>
       <description>&lt;p&gt;music post&lt;/p&gt;</description>
     </item>
     <item>
       <title>Title of the post</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>https://snorkeler-realm.xyz/posts/test/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>https://snorkeler-realm.xyz/posts/test/</guid>
       <description>&lt;p&gt;？&lt;/p&gt;</description>
     </item>
   </channel>
