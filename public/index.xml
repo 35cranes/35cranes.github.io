@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>snorkeler realm</title>
-    <link>https://35cranes.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on snorkeler realm</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://35cranes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;about&lt;/p&gt;</description>
+    </item>
     <item>
       <title>post1</title>
-      <link>https://35cranes.github.io/posts/post2/</link>
+      <link>http://localhost:1313/posts/post2/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://35cranes.github.io/posts/post2/</guid>
+      <guid>http://localhost:1313/posts/post2/</guid>
       <description>&lt;p&gt;music post&lt;/p&gt;</description>
     </item>
     <item>
       <title>Title of the post</title>
-      <link>https://35cranes.github.io/posts/test/</link>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://35cranes.github.io/posts/test/</guid>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>&lt;p&gt;？&lt;/p&gt;</description>
     </item>
   </channel>
