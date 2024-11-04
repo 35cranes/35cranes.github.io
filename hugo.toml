@@ -1,11 +1,16 @@
-baseURL = "https://snorkeler-realm.xyz"
-languageCode = "en-us"
-title = "Archie"
+baseURL = 'https://snorkeler-realm.xyz'
+languageCode = 'en-us'
+title = 'snorkeler realm'
 theme = "archie"
+
+# Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-pagination.pagerSize = 4
+
+disqusShortname = "yourDisqusShortname"
+
+paginate=3 # articles per page
 
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
@@ -13,6 +18,9 @@ pagination.pagerSize = 4
 	subtitle = "dig yourself here"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
+
+
+# Main menu Items
 
 [[menu.main]]
 name = "Home"
