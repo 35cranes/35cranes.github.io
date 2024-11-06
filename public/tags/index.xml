@@ -6,20 +6,13 @@
     <description>Recent content in Tags on snorkeler realm</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://snorkeler-realm.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Music</title>
-      <link>https://snorkeler-realm.xyz/tags/music/</link>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://snorkeler-realm.xyz/tags/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag Names</title>
-      <link>https://snorkeler-realm.xyz/tags/tag-names/</link>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://snorkeler-realm.xyz/tags/tag-names/</guid>
+      <title>Blog</title>
+      <link>https://snorkeler-realm.xyz/tags/blog/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://snorkeler-realm.xyz/tags/blog/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on snorkeler realm</title>
-    <link>https://snorkeler-realm.xyz/posts/</link>
-    <description>Recent content in Posts on snorkeler realm</description>
+    <title>Blog on snorkeler realm</title>
+    <link>https://snorkeler-realm.xyz/tags/blog/</link>
+    <description>Recent content in Blog on snorkeler realm</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://snorkeler-realm.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://snorkeler-realm.xyz/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statement 声明</title>
       <link>https://snorkeler-realm.xyz/posts/statement/</link>
