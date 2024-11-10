@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Egoism on snorkeler realm</title>
+    <link>http://localhost:1313/tags/egoism/</link>
+    <description>Recent content in Egoism on snorkeler realm</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/egoism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我在巴士上发现了自己的眼睛</title>
+      <link>http://localhost:1313/posts/%E6%88%91%E5%9C%A8%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9C%BC%E7%9D%9B/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E6%88%91%E5%9C%A8%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9C%BC%E7%9D%9B/</guid>
+      <description>&lt;p&gt;坐在咖啡馆窗前工作时前面停靠了一辆巴士，余光撇到一双眼睛沉沉地注视着我。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

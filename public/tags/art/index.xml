@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on snorkeler realm</title>
-    <link>http://localhost:1313/tags/blog/</link>
-    <description>Recent content in Blog on snorkeler realm</description>
+    <title>Art on snorkeler realm</title>
+    <link>http://localhost:1313/tags/art/</link>
+    <description>Recent content in Art on snorkeler realm</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>黑话演习</title>
       <link>http://localhost:1313/posts/%E8%AF%AD%E8%A8%80/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/%E8%AF%AD%E8%A8%80/</guid>
       <description>&lt;p&gt;本来决定这个地方不写任何关联到&lt;em&gt;艺术&lt;/em&gt;的东西，居然很快被打破了。至少关于写作，它跳跃式地击中了一些关卡。或许未来这一篇会被隐藏。&lt;/p&gt;&#xA;&lt;p&gt;看一篇艺术家采访，内文中使用「分发流程」（distribution）这个词，忽然牵动到好几年前自己写一篇同样是有关影像媒介的报道的记忆。也使用这个词，&lt;em&gt;分发&lt;/em&gt;。早忘了当时在看什么东西从什么地方拾取到的这种词。应该说，那会儿我本来是个彻头彻尾的outsider，上手开始写人们所说的&lt;em&gt;艺术类新闻报道&lt;/em&gt;时学的最快的是拾取术语。翻阅以前写的一些文章的存档时被吓一跳——人可以在毫无受过学科训练且自己也尚未能说自我训练充分的情况下如此长篇累牍地生产类似的写作。因为今时今日我已经很难再连贯地生产这样的描述和解释方式，比较难堪的是，它们甚至表面上看不出什么问题。&lt;em&gt;分发&lt;/em&gt;的使用在正确的位置，可是除了我以外还有谁会知道它被拾取起来放在这里时历经的是什么过程？&lt;/p&gt;&#xA;&lt;p&gt;开始做working artist之后&lt;em&gt;阐释作品&lt;/em&gt;的能力大半丧失了。一开始是为了逃离过去的语言模式，后来发觉陷入了某种纯粹的空白。另一个原因是双语的生活环境让我对任何单一语言的掌握程度都大幅下降。现在回头看只觉得陌生。当然，你在进入作品&lt;strong&gt;生产&lt;/strong&gt;之后一种自动生成的第三人称视角时常不是一个好东西。另一种陈词滥调是艺术家需要建立的是生活的语言，与此同时没人知道生活的语言去了哪里：社群，社交媒体，学校教室，你&lt;em&gt;朋友&lt;/em&gt;的开幕式，网络，博客，土鳖自由派播客，本土，本土，本土。你所被包围的&lt;em&gt;设施&lt;/em&gt;正是你的生活。&lt;/p&gt;&#xA;&lt;p&gt;不是逃离所有黑话演习之后就能顺理成章地发展出语言。世界上最大的妄想之一便是&lt;em&gt;逃离&lt;/em&gt;是多么强劲的反抗。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我在巴士上发现了自己的眼睛</title>
-      <link>http://localhost:1313/posts/%E6%88%91%E5%9C%A8%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9C%BC%E7%9D%9B/</link>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%E6%88%91%E5%9C%A8%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9C%BC%E7%9D%9B/</guid>
-      <description>&lt;p&gt;坐在咖啡馆窗前工作时前面停靠了一辆巴士，余光撇到一双眼睛沉沉地注视着我。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Statement 声明</title>
-      <link>http://localhost:1313/posts/statement/</link>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/statement/</guid>
-      <description>&lt;p&gt;在因特网&lt;strong&gt;自由写作&lt;/strong&gt;的方式并没有人们想象的比静态博客风靡的时候来得更多。你认为&lt;strong&gt;平台&lt;/strong&gt;以及其他宣称自己容许众声喧哗的地盘给予你反抗的姿态，但你并不在正确的道路上，甚至不在文明的道路上。把输入法切换到繁体中文以及复述模糊的政治声明不给予你任何通往自由的钥匙，更不必说百分之九十的人依然心安理得地将因特网设施视为黑箱。&lt;/p&gt;&#xA;&lt;p&gt;这个站点的基本写作原则是诚实和可读。这里提供研究、研究工具、日志和诗歌。这里不提供职业艺术人士和社交媒体爱好者所钟爱的某一种写作。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
