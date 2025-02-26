@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diary on snorkeler realm</title>
-    <link>https://snorkeler-realm.xyz/tags/diary/</link>
+    <link>http://localhost:1313/tags/diary/</link>
     <description>Recent content in Diary on snorkeler realm</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://snorkeler-realm.xyz/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20241115 blog?</title>
-      <link>https://snorkeler-realm.xyz/posts/20241115-blog/</link>
+      <link>http://localhost:1313/posts/20241115-blog/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://snorkeler-realm.xyz/posts/20241115-blog/</guid>
+      <guid>http://localhost:1313/posts/20241115-blog/</guid>
       <description>&lt;p&gt;i miss all the bloggers that i encountered in my 10s-20s. everything they gave me was new, and authentic; true, and honest.&lt;/p&gt;&#xA;&lt;p&gt;you will see if you see. you&amp;rsquo;ll know the truth and the lies in your body.&lt;/p&gt;</description>
     </item>
     <item>
       <title>20241114</title>
-      <link>https://snorkeler-realm.xyz/posts/20241114/</link>
+      <link>http://localhost:1313/posts/20241114/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://snorkeler-realm.xyz/posts/20241114/</guid>
+      <guid>http://localhost:1313/posts/20241114/</guid>
       <description>&lt;p&gt;其实你不需要道德、诚心、任何清洁的东西；你只需要魔法和精神力。&lt;/p&gt;</description>
     </item>
     <item>
       <title>20241110 Kotodama principle 言灵法则</title>
-      <link>https://snorkeler-realm.xyz/posts/20241110-%E8%A8%80%E7%81%B5%E6%B3%95%E5%88%99/</link>
+      <link>http://localhost:1313/posts/20241110-%E8%A8%80%E7%81%B5%E6%B3%95%E5%88%99/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://snorkeler-realm.xyz/posts/20241110-%E8%A8%80%E7%81%B5%E6%B3%95%E5%88%99/</guid>
+      <guid>http://localhost:1313/posts/20241110-%E8%A8%80%E7%81%B5%E6%B3%95%E5%88%99/</guid>
       <description>&lt;p&gt;把年份再往前倒推，我通常爱把发生过的好事或者令人愉悦的经历写下来。有些回过头来看完全不是那么好，但是，写下来的理由是我希望它成为&lt;strong&gt;好&lt;/strong&gt;，标志性的，值得留念的，逃逸出日常生活的&lt;a href=&#34;https://en.wikipedia.org/wiki/Kotodama&#34;&gt;魔法&lt;/a&gt;事件，不论通过纸笔或网络文本。&lt;/p&gt;&#xA;&lt;p&gt;这是我后来阶段性不相信文学的原因之一。&lt;/p&gt;</description>
     </item>
     <item>
       <title>20241108 I found my eyes on a bus 我在巴士上发现了自己的眼睛</title>
-      <link>https://snorkeler-realm.xyz/posts/20241108-%E6%88%91%E5%9C%A8%E5%B7%B4%E5%A3%AB%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9C%BC%E7%9D%9B/</link>
+      <link>http://localhost:1313/posts/20241108-%E6%88%91%E5%9C%A8%E5%B7%B4%E5%A3%AB%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9C%BC%E7%9D%9B/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://snorkeler-realm.xyz/posts/20241108-%E6%88%91%E5%9C%A8%E5%B7%B4%E5%A3%AB%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9C%BC%E7%9D%9B/</guid>
+      <guid>http://localhost:1313/posts/20241108-%E6%88%91%E5%9C%A8%E5%B7%B4%E5%A3%AB%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9C%BC%E7%9D%9B/</guid>
       <description>&lt;p&gt;坐在咖啡馆窗前工作时前面停靠了一辆巴士，余光撇到一双眼睛沉沉地注视着我。它们的黑与白突兀得令人心惊，直冲面门，顽固地盯着我的动作，透过巴士巨大的窗户缔造了一面临时的穹顶，审判从前方和上空传来。&lt;/p&gt;&#xA;&lt;p&gt;抬头后我发现这是我自己的眼睛在玻璃上的倒影。可是在我没有注视着它们时，它们为何注视着我？&lt;/p&gt;</description>
     </item>
     <item>
       <title>20241106 your life of normality 正常生活</title>
-      <link>https://snorkeler-realm.xyz/posts/20241106-your-life-of-normality/</link>
+      <link>http://localhost:1313/posts/20241106-your-life-of-normality/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://snorkeler-realm.xyz/posts/20241106-your-life-of-normality/</guid>
+      <guid>http://localhost:1313/posts/20241106-your-life-of-normality/</guid>
       <description>&lt;p&gt;回顾了一下历史事件，觉得今年居然维持了正常的人形，还蛮啼笑皆非。一般在过去的十一月左右的节点人基本上已经疯了：2020年在图书馆厕所呕吐出致幻效果，2021年进入酗酒时代，2022年出一次门发作一次，2023年躲在房间里数药片。&lt;/p&gt;&#xA;&lt;p&gt;nothing to celebrate tho，在房间里数药片入睡的几个月是我最接近世界真相的时候，吐得不成人形的时候写出了至今为止最值得存档的文本。当然那种时候百分之九十九时间人只是一滩风都吹不动的腐烂物，剩下百分之一的时候你一只手砸穿过去迷惑你的镜面然后伸进去攫取了一切，我是说，一切。谁在这个时候假模假样地说天啊为你感到高兴谁就会被我在心里恶毒处刑。你不明白&lt;em&gt;正常&lt;/em&gt;是一种什么东西只能佐证你的劣等。你陶醉的生产力，效率，良好社交，&lt;em&gt;艺术作品&lt;/em&gt;，&lt;em&gt;你认为的同盟&lt;/em&gt;这些构成&lt;em&gt;正常&lt;/em&gt;的零件究竟是什么你充耳不闻。我明白为了构成正常我为自己挑选了哪种义肢和接触了哪种魔鬼，或许唯一可以庆贺的一点东西是能稍微从别的视角描述出那些历史。&lt;/p&gt;</description>
     </item>
   </channel>
