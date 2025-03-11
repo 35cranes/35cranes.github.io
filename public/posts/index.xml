@@ -9,7 +9,7 @@
     <lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>20241115 观光团</title>
+      <title>20250204 观光团</title>
       <link>http://localhost:1313/posts/20250204-%E8%A7%82%E5%85%89%E5%9B%A2/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/20250204-%E8%A7%82%E5%85%89%E5%9B%A2/</guid>
@@ -70,6 +70,13 @@
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/statement/</guid>
       <description>&lt;p&gt;在因特网&lt;a href=&#34;https://blog.yitianshijie.net/2024/07/10/4914/&#34;&gt;自由写作&lt;/a&gt;的方式并没有人们想象的比静态博客风靡的时候来得更多。你认为&lt;strong&gt;平台&lt;/strong&gt;以及其他宣称自己容许众声喧哗的地盘给予你反抗的姿态，但你并不在正确的道路上，甚至不在文明的道路上。把输入法切换到繁体中文以及复述模糊的政治声明不给予你任何通往自由的钥匙，更不必说百分之九十的人依然心安理得地将因特网设施视为黑箱。&lt;/p&gt;&#xA;&lt;p&gt;这个站点的基本写作原则是诚实和可读。这里提供研究、研究工具、日志和诗歌。这里不提供职业艺术人士和社交媒体爱好者所钟爱的某一种写作。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/letters-to-echo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/letters-to-echo/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,29 @@ draft: false
 tags: [whispering] 
 ---
 
+March 11, 2025
+
+Echo,
+
+it's my second day in vilnius, lithuania. i took a walk to the republic of uzupis, where used to built by a hippies group, as they said. it looks pretty commercialized nowadays already, but i was still into the small rivers alongside. this afternoon i was sitting by the sound and the pattern of those tiny ripples, almost tearing out. i remember you were not interesting in water, wasn't it? but i believe you'd still like some part of it. so far the city is vivid in my sights - not stark at all like some ppl said. 
+
+later i'll go to berlin for a couple of days. 
+
+moving again to a foreign city restores my routine of going grocery, cooking, walking, and watching. there are three bright windows in my bedroom in proper sizes. i put the exhibit ephemerals i got from netherlands and my books by the windows (two of them), on the massive table.  i also have a studio downstairs, but i don't think i'll use that so often. my table and my body are my studio indeed. i'm truly hoping to make authentic things now.
+
+i took a picture of the constitution of that republic. i'm sure you'd like the last three lines.
+
+do not defeat. do not fight back. do not surrender.
+
+
+Erica
+
+
+
+
+
+March 1, 2025
+
 Echo,
 
 i've been away from the united states for almost 3 weeks. now, netherlands. being outside of north america brings me massive relief far bigger than i imagined. the only reason i'm writing in english is to soften the shame of what's in my life and my mind that im gonna tell you here.
@@ -16,10 +39,7 @@ in the past few months i’ve been playing games of money and politics — the v
 
 i have no idea if we’ll ever meet again, i mean really meet, to actually talk. soon i’ll be heading to lithuania to make something new — i’m trying to build up some kind of anticipation for it. there was even a brief period recently when i felt a strong urge to go back to china (that impulse faded within a month). i can already picture your expression reading this line, even though the reasons we can’t stay there are not completely the same. i also have no idea what kind of truth this constant moving is supposed to reveal. and i feel ashamed to use words like *wandering* or *drifting*. i just tell people something flat and unremarkable that i’m moving. moving sounds like putting together a jigsaw puzzle with children's attributes. i run from place to place like a kid who refuses to take responsibility. i get pissed off more often than i did before the new year. sometimes because of the absurd rules of the game and sometimes because of the endless chain of lies and sometimes because of specific assholes. but when darkness pulls over my eyes, all these things settle quietly into place, segment after segment, like lotus roots with no texture. that’s when i always think i’ve finally figured out the pattern - there should be a coherent story behind why I'm always irritated. to prove some thoughts i try to think about what you would’ve done. but in the fog of memory, i can no longer see what you really thought back then. turns out i’m the one who’s forgetting.
 
-the only way i know to save myself now is to throw my whole being into work. not the work for survivng or acting, but the kind of work where i actually exist. where i might finally understand something, instead of alwangs harboring my weapons facing people (*them*). i still hope to see you again someday.
+the only way i know to save myself now is to throw my whole being into work. not the work for survivng or acting, but the kind of work where i actually exist. where i might finally understand something, instead of always harboring my weapons facing people (*them*). i still hope to see you again someday.
 
 
 Erica
-March 1st, 2025
-
-
