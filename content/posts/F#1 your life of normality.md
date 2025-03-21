@@ -1,9 +1,9 @@
 ---
-title: 20241106 your life of normality 正常生活
+title: Fragment #1 your life of normality 正常生活
 description: 
 date: 2024-11-06
 draft: false 
-tags: [diary] 
+tags: [fragment] 
 ---
 回顾了一下历史事件，觉得今年居然维持了正常的人形，还蛮啼笑皆非。一般在过去的十一月左右的节点人基本上已经疯了：2020年在图书馆厕所呕吐出致幻效果，2021年进入酗酒时代，2022年出一次门发作一次，2023年躲在房间里数药片。
 

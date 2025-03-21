@@ -1,7 +1,7 @@
 ---
 title: Letters to Echo
 description: things i wanna whisper to you
-date: 2025-03-01
+date: 2025-03-21
 draft: false 
 tags: [whispering] 
 ---
@@ -16,6 +16,7 @@ Echo,
 你曾经向往的四海为家的生活在我这里已成为一种尖锐的形势所迫。偶尔也会收到羡慕可以四处游荡的感慨，我本想说现在它不是一种主动选择，转念一想所有的选择何尝不是都被自己安排。我不想为自己找任何借口了。我总是发觉我们在相异的动机之下达成了相同的结果，这让我开始怀疑动机，这也是我不想总是下意识找借口的原因之一。
 
 Erica
+a cafe, Vilnius
 
 --------------------
 
@@ -34,6 +35,7 @@ i felt that feeling again this afternoon when i woke up. i should stop looking a
 how did you survive all that fear in a row?
   
 Erica  
+Vilnius
   
 -------------  
 
@@ -54,7 +56,8 @@ do not defeat. do not fight back. do not surrender.
 
 
 Erica
-  
+Vilnius, Lithuania
+
 ----------------  
   
   
@@ -75,3 +78,4 @@ the only way i know to save myself now is to throw my whole being into work. not
   
 
 Erica  
+The Hague, Netherlands
