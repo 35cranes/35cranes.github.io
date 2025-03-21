@@ -1,5 +1,5 @@
 ---
-title: Article #1 Theory of Bloom by Tiqqun (excerpt)
+title: Article#1 Theory of Bloom by Tiqqun (excerpt)
 description: research materials on anarchism
 date: 2024-11-06
 draft: false 
