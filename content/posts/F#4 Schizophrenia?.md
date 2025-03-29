@@ -2,7 +2,7 @@
 title: Fragment#4 Schizophrenia
 description: 
 date: 2024-11-13
-draft: true
+draft: false
 tags: [fragment] 
 ---
 
