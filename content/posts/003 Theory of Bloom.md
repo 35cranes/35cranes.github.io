@@ -3,7 +3,7 @@ title: Article#1 Theory of Bloom by Tiqqun (excerpt)
 description: research materials on anarchism
 date: 2024-11-06
 draft: false 
-tags: [Article] 
+tags: [Article, Tiqqun, anarchism] 
 ---
 ## Mundus Est Fabula (the world is a fiction)
 Because Bloom is he who can no longer separate himself from the immediate context containing him, his gaze is that of a man *that does not identify*. Everything blurs under the Bloom effect and is lost in the inconsequential wavering of objective relationships where life is felt negatively, in indifference, impersonality, and the lack of quality.
