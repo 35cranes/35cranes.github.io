@@ -1,5 +1,5 @@
 ---
-title: Fragment#1 your life of normality 正常生活
+title: your life of normality 正常生活
 description: 
 date: 2024-11-06
 draft: false 

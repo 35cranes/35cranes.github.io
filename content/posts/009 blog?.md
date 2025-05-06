@@ -1,5 +1,5 @@
 ---
-title: Fragment#6 blog?
+title: blog?
 description: 
 date: 2024-11-15
 draft: false

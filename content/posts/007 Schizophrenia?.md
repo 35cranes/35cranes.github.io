@@ -1,5 +1,5 @@
 ---
-title: Fragment#4 Schizophrenia
+title: Schizophrenia
 description: 
 date: 2024-11-13
 draft: true
